@@ -1,0 +1,29 @@
+.p1{
+    margin-bottom: 20pxs;
+    text-align: center;
+    
+}
+li{
+    color: rgb(0, 255, 60);
+}
+body{
+   
+    background-image: url('Videosandimages/download.png');
+    background-repeat: ;
+    background-size: ;
+
+    
+}
+h2{
+    text-align: center;
+}
+.button{
+   margin-left: 550px;
+    cursor: pointer;
+    padding:60px;
+    background-color: white;
+    border-radius: 330px;
+}
+.button:hover{
+    background-color: green;
+}
