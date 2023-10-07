@@ -27,3 +27,20 @@ h2{
 .button:hover{
     background-color: green;
 }
+.divi{
+    background-color: rgb(65, 65, 104);
+    color: rgb(255, 0, 0);
+    border-radius: 550px;
+    padding: 50px;
+    text-align: center;
+}
+.divi ul{
+   display:inline-flex ; 
+   list-style: none;
+}
+.divi ul li{
+    width: 120px;
+ font-size: 23px;
+    margin: 15px;
+    color: rgb(0, 252, 168);
+}
